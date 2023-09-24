@@ -8,4 +8,4 @@ JAVASCRIPT
 
 To see the live demonstration click on the link below:
 
-https://cooldudeadarsh.github.io/Digital_Clock/
+https://sadarsh22.github.io/Digital_Clock/
